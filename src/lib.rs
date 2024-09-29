@@ -1,3 +1,7 @@
+mod particle_system;
+
+pub use particle_system::ParticleSystem;
+
 pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
