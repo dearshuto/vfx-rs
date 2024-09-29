@@ -1,0 +1,9 @@
+[package]
+name = "vfx-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[build-dependencies]
+shac-rs = { git = "https://github.com/dearshuto/shac-rs.git" }
